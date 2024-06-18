@@ -4,11 +4,11 @@ The following information outlines the role and responsibilities of the Security
 
 ### Permissions
 The security manager role grants the following permissions:
-	- Read access on all repositories in the organization, in addition to any existing repository access.
-	- Write access on all security alerts in the organization.
-	- The ability to configure code security settings at the organization level.
-	- The ability to configure code security settings at the repository level.
-	- Note: Security managers cannot manage the security team members.
+- Read access on all repositories in the organization, in addition to any existing repository access.
+- Write access on all security alerts in the organization.
+- The ability to configure code security settings at the organization level.
+- The ability to configure code security settings at the repository level.
+- Note: Security managers cannot manage the security team members.
 
 An organization owner can create and manage a `security-managers` team. See [how to create a Github team](https://docs.github.com/en/organizations/organizing-members-into-teams/creating-a-team).
 
@@ -16,9 +16,9 @@ An organization owner can create and manage a `security-managers` team. See [h
 The security manager role can be applied to selected members of the security-council team who may be required to audit security across various Jupyter subprojects.
 
 As of the most recent update, the current members are:
-	- Rick Wagner (@rpwagner)
-	- Matthias Bussonnier (@Carreau)
-	- Rosio Reyes (@RRosio)
+- Rick Wagner (@rpwagner)
+- Matthias Bussonnier (@Carreau)
+- Rosio Reyes (@RRosio)
 
 ### Purpose
 The security manager role will give [members of the Jupyter Security council](https://github.com/jupyter/security/blob/main/README.md#jupyter-security-subproject-council) the permissions necessary to collaborate with Jupyter sub-project maintainers in evaluating, processing and handling security across Jupyter. This role may also promote a more uniform and united handling of security across the Jupyter ecosystem.  
